@@ -1,7 +1,5 @@
 # AI Algorithms, Models & Architectures — Reference Cheat Sheet
 
-> **Legend:** ★ = Industry standard / widely deployed  |  ↑ = State-of-the-art (as of 2025)
-
 -----
 
 ## 1. Large Language Models (LLM) / Text Generation

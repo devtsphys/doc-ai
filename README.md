@@ -1,1 +1,1 @@
-# doc-ai
+- [Categories](categories.md)
